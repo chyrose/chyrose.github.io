@@ -11,3 +11,16 @@
 **Dashboard Overview:** 
 
 ![Coffee_sales](Coffee_sales.png)
+
+# Project 2
+**Title:** [Vrinda Store SALES PERFORMANCE DASHBOARD](https://github.com/chyrose/chyrose.github.io/blob/main/Vrinda%20Store%20Sales%20Dashboard.pbix)
+
+**Tools:** Power Bi (DAX, Power Query Editor), SQL (DDL, DML, DXL)
+
+**Description:** This project involved analyzing sales data of Vrindashop to identify trends and patterns in sales performance in 2021...
+
+**Key Findings:**
+
+**Dashboard Overview:** 
+
+![Vrinda_Sales_Performance_Dashboard](Vrinda_Sales_Performance_Dashboard.png)
