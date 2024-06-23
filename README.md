@@ -24,3 +24,13 @@
 **Dashboard Overview:** 
 
 ![Vrinda_Sales_Performance_Dashboard](Vrinda_Sales_Performance_Dashboard.png)
+
+# Project 3
+**Title:** Customer Data Cleansing
+
+**SQL Code:**  [Customer data SQL queries](https://github.com/chyrose/chyrose.github.io/blob/main/Customerdata.sql) 
+
+**Description:** Update this...
+
+**Skills:**  SQL (DDL, DML, DXL)
+
