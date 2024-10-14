@@ -1,4 +1,4 @@
-# DATA ANALYTICS PORTFOLIO
+# DATA ANALYTICS PORTFOLIOs
 # Project 1
 **Title:** [COFFEE SALES PERFORMANCE DASHBOARD](https://github.com/chyrose/chyrose.github.io/blob/main/coffeeOrdersProject.xlsx)
 
