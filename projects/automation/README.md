@@ -1,9 +1,9 @@
 ## Customer Support Automation and Monitoring
 
-#### Project Overview:
+### Project Overview:
 This project was executed during a 6-month sales campaign for **CloudFusion**, a SaaS company providing cloud-based services to businesses. The company contracted five customer support agents to manage the increasing number of support tickets during the campaign. My role as a **Data Analyst** was to automate the consolidation and monitoring of this data and provide real-time performance insights.
 
-#### Project Objective:
+### Project Objective:
 The primary goal was to streamline and automate the reporting process for CloudFusion’s customer support operations. Key objectives included:
 
 - Automating the consolidation of monthly support ticket data.
@@ -12,11 +12,11 @@ The primary goal was to streamline and automate the reporting process for CloudF
 - Automating the creation of monthly reports for the campaign team’s review.
 
 
-#### Dashboard Overview: 
+### Dashboard Overview: 
 
 ![Customer_Support_Automation](/projects/automation/Customer_Support_Automation.png)
 
-#### Project Execution:
+### Project Execution:
 
 1. **Standardised Ticket Data Template**
 
@@ -101,7 +101,7 @@ The primary goal was to streamline and automate the reporting process for CloudF
 
     ![Customer_Support_Automation](/projects/automation/EmailList.png)
 
-#### Conclusion and Key Takeaways:
+### Conclusion and Key Takeaways:
 
 This Customer Support Ticket Automation and Monitoring project for CloudFusion highlights my skills in **data automation, real-time reporting**, and **dashboard design**. Through the use of Power Query, Pivot Tables, Excel formulas, and VBA Macros, I:
 

@@ -2,23 +2,23 @@
 
 #### Tools: Microsoft Excel (Pivot Table, Conditional Formatting, Pivot Chart, Power Query Editor)
 
-#### Introduction
+### Introduction
 
 Unique Attireis is a small to medium-sized fashion enterprise well-known for its bespoke two-piece apparel. In January 2022, the company launched a new denim line, comprising 10 distinct types of pants and jackets. Unfortunately, the product line has fallen short of sales expectations, prompting the need for an in-depth analysis to guide strategic decisions.
 
-#### Objective
+### Objective
 
 The primary objective of this project is to assess the sales performance of the denim line and deliver actionable insights and recommendations to the Sales and Marketing teams. The project demonstrates the power of data-driven analysis in solving real-world business problems and guiding strategic decision-making.
 
-#### Report: [Denim Product Line 2022 and 2023 Sales Report](/projects/denim/Denim_Product_Line_Sales_Report.xlsx)
+#### [Download Report](/projects/denim/Denim_Product_Line_Sales_Report.xlsx)
 
 #### [See SQL Queries here](/projects/denim/SQL.md)
 
-#### Dashboard Overview: 
+### Dashboard Overview: 
 
 ![Denim_Sales_Report](/projects/denim/Denim_Product_Line_Sales_Report_Dashboard.png)
 
-#### The Dataset
+### The Dataset
 
 The analysis leverages a dataset from Unique Attire's database, including sales data from 2022 to 2023. The various data points such as product sales figures, customer details, order specifics, and geographic distribution.
 
@@ -40,7 +40,7 @@ The analysis leverages a dataset from Unique Attire's database, including sales 
 - Country: Sales performance segmented by country offers insights into regional demand. Understanding country-specific preferences can help tailor marketing strategies and product offerings to maximise regional revenue potential.
 
 
-#### Key Assumptions
+### Key Assumptions
 
 In developing the interactive dashboard and report, several assumptions were made due to the absence of direct end-user discussions. These assumptions shaped the analysis and the design of the dashboard:
 
@@ -49,7 +49,7 @@ In developing the interactive dashboard and report, several assumptions were mad
 - Need for a User-Friendly Dashboard: The dashboard is designed to be intuitive for non-technical stakeholders, providing clear visualisations of key metrics such as total sales, quantity of orders, and product performance.
 
 
-#### Data Analysis Approach
+### Data Analysis Approach
 
 - Initial Data Cleaning: The first step involved a comprehensive data wrangling process to clean and standardise the raw dataset, removing duplicate records, and transforming data types to ensure uniformity across the dataset. These steps were essential to avoid skewed results due to data inconsistencies.
 - Data Merging and Transformation: Advanced Excel functions such as Index-match and Xlookup were used to merge relevant fields from the product and customer tables to create a unified dataset.
@@ -58,7 +58,7 @@ In developing the interactive dashboard and report, several assumptions were mad
 - Storytelling with Data: The dashboard employed storytelling techniques to narrate the sales journey, making complex data more relatable and insightful.
 
 
-#### Key Insights
+### Key Insights
 
 **Seasonal Demand Patterns**
 
@@ -88,7 +88,7 @@ Loyalty card holders accounted for 36% of total sales, contributing £48,805. Th
 Sales and profit have both increased significantly from 2022 to 2023. Sales grew from £59,332 to £76,238, and profit increased from £28,843 to £36,341. The customer base also grew from 216 to 226. However, the rise in unique customers making only one order, from 10 in 2022 to 92 in 2023, indicates a need to improve customer retention strategies to convert first-time buyers into repeat customers
 
 
-#### Key Recommendations
+### Key Recommendations
 
 **Seasonal Marketing and Inventory Management**
 

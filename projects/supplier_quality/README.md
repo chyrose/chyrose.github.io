@@ -1,8 +1,8 @@
-## Portfolio Project: Supplier Quality and Performance Dashboard 
+## Supplier Quality and Performance Insight Project 
 
-#### Click on this link to interact with the dashboard - https://bit.ly/SupplierQualityandPerformanceDashboard
+#### [Interact with dashboard on PowerBI Services](https://bit.ly/SupplierQualityandPerformanceDashboard)
 
-#### File Download: [Supplier Quality and Performance Dashboard](/projects/supplier_quality/Power%20BI%20Supplier%20Insight%20Project.pbix)
+#### [Download Project](/projects/supplier_quality/Power%20BI%20Supplier%20Insight%20Project.pbix)
 
 ### Project Background
 Enterprise Manufacturer Ltd is a raw materials manufacturer facing quality inconsistencies across its supply chain, leading to production downtime and material defects. The company operates without a formal procurement system, and its vendor management processes have not effectively addressed quality issues. As a result, production inefficiencies have escalated, costing the company significant time and financial resources.
@@ -43,8 +43,6 @@ Once the data model was established and measures created, insightful and intuiti
 
 - Real-Time Monitoring and Collaboration: The programme management team can access real-time data on Power BI Services and drill into specific vendors, materials, plants and dates to enable data-driven decision-making.
 
-<br />
-
 ### Executive Summary Report
 
 **Overview of Findings**
@@ -57,7 +55,6 @@ The analysis revealed significant operational inefficiencies between 2018 and 20
 - Plant Charles City, Hingham and Twin Rocks experienced the highest downtime, indicating possible process inefficiencies and material handling issues.
 - Raw Material, Corrugate and Film caused the worst defects amounting to 61.15%, leading to excessive downtime and defects.
 
-<br />
 
 ### Insights
 
