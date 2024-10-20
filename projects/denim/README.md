@@ -4,7 +4,7 @@
 
 ### Introduction
 
-Unique Attireis is a small to medium-sized fashion enterprise well-known for its bespoke two-piece apparel. In January 2022, the company launched a new denim line, comprising 10 distinct types of pants and jackets. Unfortunately, the product line has fallen short of sales expectations, prompting the need for an in-depth analysis to guide strategic decisions.
+Unique Attires is a small to medium-sized fashion enterprise well-known for its bespoke two-piece apparel. In January 2022, the company launched a new denim line, comprising 10 distinct types of pants and jackets. Unfortunately, the product line has fallen short of sales expectations, prompting the need for an in-depth analysis to guide strategic decisions.
 
 ### Objective
 
@@ -12,7 +12,7 @@ The primary objective of this project is to assess the sales performance of the 
 
 #### [Download Report](/projects/denim/Denim_Product_Line_Sales_Report.xlsx)
 
-#### [See SQL Queries here](/projects/denim/SQL.md)
+#### [See SQL Queries](/projects/denim/SQL.md)
 
 ### Dashboard Overview: 
 
@@ -21,8 +21,6 @@ The primary objective of this project is to assess the sales performance of the 
 ### The Dataset
 
 The analysis leverages a dataset from Unique Attire's database, including sales data from 2022 to 2023. The various data points such as product sales figures, customer details, order specifics, and geographic distribution.
-
-#### Key Components of the Dataset:
 
 **North Star Metrics and Dimensions for Analysis**
 

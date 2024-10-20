@@ -1,13 +1,13 @@
 ## Supplier Quality and Performance Insight Project 
 
-#### [Interact with dashboard on PowerBI Services](https://bit.ly/SupplierQualityandPerformanceDashboard)
+#### [Interact with dashboard on Power BI Service](https://bit.ly/SupplierQualityandPerformanceDashboard)
 
 #### [Download Project](/projects/supplier_quality/Power%20BI%20Supplier%20Insight%20Project.pbix)
 
 ### Project Background
 Enterprise Manufacturer Ltd is a raw materials manufacturer facing quality inconsistencies across its supply chain, leading to production downtime and material defects. The company operates without a formal procurement system, and its vendor management processes have not effectively addressed quality issues. As a result, production inefficiencies have escalated, costing the company significant time and financial resources.
 
-This project analysed 5,226 count rows of data from 2018 and 2019 to assess supplier quality and plant performance. Key objectives were to identify underperforming vendors and materials, analyse downtime impacts, and provide actionable insights for process improvements. The final deliverable included an interactive PowerBI dashboard for real-time monitoring and decision-making.
+This project analysed 5,226 count rows of data from 2018 and 2019 to assess supplier quality and plant performance. Key objectives were to identify underperforming vendors and materials, analyse downtime impacts, and provide actionable insights for process improvements. The final deliverable included an interactive Power BI dashboard for real-time monitoring and decision-making.
 
 Insights and recommendations are provided in the following key areas:
     
@@ -16,9 +16,16 @@ Insights and recommendations are provided in the following key areas:
 - Material Performance: Insights into materials that contributed to production inefficiencies.
 - Vendor-Material Relationship: Identification of underperforming vendor-material combinations impacting overall efficiency.
 
+![Insights Dashboard](/projects/supplier_quality/Insights_Dashboard.png)
+
 ### Data Structure & Initial Checks
 
-The dataset was modelled into a star schema fact and dimension tables to ensure a flexible and scalable data model. Before diving into the analysis, several checks were performed to ensure data quality and familiarisation with the dataset:
+The dataset was modelled into a star schema fact and dimension tables to ensure a flexible and scalable data model. 
+
+![Supplier Quality Data Modelling](/projects/supplier_quality/Data_Modelling.png)
+
+
+Before diving into the analysis, several checks were performed to ensure data quality and familiarisation with the dataset:
 
 - **Power Query** was used to clean the dataset by eliminating duplicates, handling missing values, and standardising data format.
 - **Advanced DAX** functions were employed to create custom-calculated columns and measures for critical metrics like defect rate and downtime cost.
@@ -30,18 +37,13 @@ Automating the consolidation of monthly support ticket data.
 - Designing a real-time dashboard to provide the management team with live insights into agent efficiency.
 - Automating the creation of monthly reports for the campaign team’s review.
 
-### Dashboard Overview: 
-
-![Customer_Support_Automation](/projects/supplier_quality/Data_Modelling.png)
-
-
 ### Data Visualisation
 
 Once the data model was established and measures created, insightful and intuitive visualisation was created. The dashboard comprised five pages - Landing Page, Overview Page, Vendor Performance Page, Plant Performance Page, Material Performance and Downtime Impact Page, each tailored to address specific aspects of supplier quality.
 
 #### Publishing and Collaboration
 
-- Real-Time Monitoring and Collaboration: The programme management team can access real-time data on Power BI Services and drill into specific vendors, materials, plants and dates to enable data-driven decision-making.
+- Real-Time Monitoring and Collaboration: The programme management team can access real-time data on Power BI Service and drill into specific vendors, materials, plants and dates to enable data-driven decision-making.
 
 ### Executive Summary Report
 
