@@ -47,6 +47,14 @@ The analysis leverages a dataset from Unique Attire's database, including sales 
 - Total Quantity of Orders: Captures the volume of denim items sold, offering insights into demand levels across the product line.
 - Unique Customers: Reflects the number of unique customers who made a single order.
 
+**Dimensions for Analysis**
+
+- Product Category: Analysing sales by category (Pants vs. Jackets) helps identify trends and performance gaps, guiding product mix and marketing strategies.
+- Product Name: A detailed breakdown of sales by specific product names allows for targeted marketing efforts, trend insights and product development adjustments.
+- Loyalty Card: Sales data segmented by loyalty card holders versus non-holders helps gauge customer loyalty and assess the effectiveness of the loyalty programme for denim products.
+- Date: This allows for assessing seasonality and sales trends over time, informing inventory and promotions management.
+- Country: Sales performance segmented by country offers insights into regional demand. Understanding country-specific preferences can help tailor marketing strategies and product offerings to maximise regional revenue potential.
+
 #### Dashboard Overview:
 
 ![Customer_Support_Automation](/projects/denim/Denim_Product_Line_Sales_Report_Dashboard.png)
