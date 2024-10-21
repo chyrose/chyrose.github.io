@@ -30,19 +30,19 @@ The primary goal was to streamline and automate the reporting process for CloudF
 
 2. **Automating Data Collection with Power Query**
 
-    By utilising **Power Query**, I automated the data collection process. Power Query was connected to the shared OneDrive folder, allowing real-time updates and eliminating manual consolidation efforts. This automation reduced the risk of human error and saved approximately **15 hours per month** in data handling time.
+    By utilising Power Query, I automated the data collection process. Power Query was connected to the shared OneDrive folder, allowing real-time updates and eliminating manual consolidation efforts. This automation reduced the risk of human error and saved approximately 15 hours per month in data handling time.
 
 3. **Analysing Support Ticket Data Using Pivot Tables**
 
-    With the data consolidated, I conducted detailed performance analyses using **Pivot Tables** and advanced formulas:
+    With the data consolidated, I conducted detailed performance analyses using Pivot Tables and advanced formulas:
 
     - **Total Tickets Handled**: Tracked ticket volumes to assess team workload over time.
-    - **Tickets by Issue Type**: Analysed the most frequent support categories (Billing, Technical, Account), revealing that **Technical issues** accounted for **60% of tickets**.
-    - **Agent Performance**: Evaluated each agent's performance, measuring the **number of tickets handled** and **resolution status**. 
-    - Through these analyses, I identified that **Agent Sarah David consistently handled the highest volume of tickets**, outperforming her peers by managing **25% more tickets** than the average agent. Additionally, the **average resolution time** across all agents was **7 hours**, indicating room for process improvement. Notably, **29% of tickets were re-opened**, suggesting potential issues with initial ticket resolutions and highlighting the need for further investigation into **root causes** and opportunities for agent training or process optimisation.
+    - **Tickets by Issue Type**: Analysed the most frequent support categories (Billing, Technical, Account), revealing that Technical issues accounted for 60% of tickets.
+    - **Agent Performance**: Evaluated each agent's performance, measuring the number of tickets handled and resolution status. 
+    - Through these analyses, I identified that Agent Sarah David consistently handled the highest volume of tickets, outperforming her peers by managing 25% more tickets than the average agent. Additionally, the average resolution time across all agents was 7 hours, indicating room for process improvement. Notably, 29% of tickets were re-opened, suggesting potential issues with initial ticket resolutions and highlighting the need for further investigation into root causes and opportunities for agent training or process optimisation.
 
 4. **Real-Time Performance Dashboard**
-    I created a dynamic, interactive **dashboard** using Excel to display live data for the campaign team members. The dashboard included:
+    I created a dynamic, interactive dashboard using Excel to display live data for the campaign team members. The dashboard included:
     - **KPI tracking** for ticket resolution times, number of tickets by agent, and issue type.
     - **Slicers and Timelines** to allow easy filtering by agent, ticket status, and issue type.
 
@@ -50,7 +50,7 @@ The primary goal was to streamline and automate the reporting process for CloudF
 
 5. **Automating Monthly Reports with VBA Macros**
 
-    To reduce manual work, I built **VBA Macros** that automatically generated and emailed monthly reports to the 10 campaign team members. This automation reduced the reporting time by **75%** with the click of a button.
+    To reduce manual work, I built VBA Macros that automatically generated and emailed monthly reports to the 10 campaign team members. This automation reduced the reporting time by 75% with the click of a button.
 
     Find the snippet below.
 
@@ -103,12 +103,12 @@ The primary goal was to streamline and automate the reporting process for CloudF
 
 ### Conclusion and Key Takeaways:
 
-This Customer Support Ticket Automation and Monitoring project for CloudFusion highlights my skills in **data automation, real-time reporting**, and **dashboard design**. Through the use of Power Query, Pivot Tables, Excel formulas, and VBA Macros, I:
+This Customer Support Ticket Automation and Monitoring project for CloudFusion highlights my skills in data automation, real-time reporting, and dashboard design. Through the use of Power Query, Pivot Tables, Excel formulas, and VBA Macros, I:
 
-- **Automated Data Collection**: Reduced data consolidation time by **10 hours per month** and significantly reduced human errors.
-- **Real-Time Dashboard**: Provided stakeholders with **live insights** into agent performance, improving operational visibility and response time.
-- **Automated Reporting**: Streamlined report generation, cutting manual reporting time by **75%**, and ensuring timely and accurate communication with the campaign team.
-- **Data-Driven Insights**: Delivered actionable insights into **agent efficiency, resolution rates**, and the most common customer issues, helping the team make more informed decisions.
+- **Automated Data Collection**: Reduced data consolidation time by 10 hours per month and significantly reduced human errors.
+- **Real-Time Dashboard**: Provided stakeholders with live insights into agent performance, improving operational visibility and response time.
+- **Automated Reporting**: Streamlined report generation, cutting manual reporting time by 75%, and ensuring timely and accurate communication with the campaign team.
+- **Data-Driven Insights**: Delivered actionable insights into agent efficiency, resolution rates, and the most common customer issues, helping the team make more informed decisions.
 
 
 
