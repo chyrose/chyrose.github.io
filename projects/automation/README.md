@@ -1,7 +1,7 @@
-## Customer Support Automation and Monitoring
+## Customer Support Automation and Monitoring Project
 
 ### Project Overview:
-This project was executed during a 6-month sales campaign for **CloudFusion**, a SaaS company providing cloud-based services to businesses. The company contracted five customer support agents to manage the increasing number of support tickets during the campaign. My role as a **Data Analyst** was to automate the consolidation and monitoring of this data and provide real-time performance insights.
+This project was executed during a 6-month sales campaign for CloudFusion, a SaaS company providing cloud-based services to businesses. The company contracted five customer support agents to manage the increasing number of support tickets during the campaign. My role as a Data Analyst was to automate the consolidation and monitoring of this data and provide real-time performance insights.
 
 ### Project Objective:
 The primary goal was to streamline and automate the reporting process for CloudFusion’s customer support operations. Key objectives included:
@@ -48,7 +48,7 @@ The primary goal was to streamline and automate the reporting process for CloudF
 
         This dashboard empowered the team to make informed, data-driven decisions in real time, improving their ability to address operational bottlenecks promptly.
 
-5. **Automating Weekly Reports with Macros (VBA)**
+5. **Automating Monthly Reports with VBA Macros**
 
     To reduce manual work, I built **VBA Macros** that automatically generated and emailed monthly reports to the 10 campaign team members. This automation reduced the reporting time by **75%** with the click of a button.
 

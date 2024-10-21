@@ -23,7 +23,6 @@ Insights and recommendations are provided in the following key areas:
 #### [Interact with dashboard on Power BI Service](https://bit.ly/SupplierQualityandPerformanceDashboard)
 
 <br />
-<br />
 
 
 ## [Denim Product Line 2022 and 2023 Sales Report Project](/projects/denim/Denim_Product_Line_Sales_Report.xlsx)
@@ -54,8 +53,6 @@ The analysis leverages a dataset from Unique Attire's database, including sales 
 #### [Read more...](/projects/denim/README.md)
 #### [See SQL Queries](/projects/denim/SQL.md)
 
-
-<br />
 <br />
 
 ## [Customer Support Automation and Monitoring Project](/projects/automation/Customer_Support_Automation_and_Monotiring_Project.xlsm)
@@ -71,8 +68,7 @@ The primary goal was to streamline and automate the reporting process for CloudF
 - Designing a real-time dashboard to provide the management team with live insights into agent efficiency.
 - Automating the creation of monthly reports for the campaign team’s review.
 
-#### [Read More...](/projects/automation/README.md)
-
 #### Dashboard Overview: 
 ![Customer_Support_Automation](/projects/automation/Customer_Support_Automation.png)
 
+#### [Read More...](/projects/automation/README.md)
