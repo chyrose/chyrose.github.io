@@ -65,6 +65,8 @@ The analysis leverages a dataset from Unique Attire's database, including sales 
 
 ## [Customer Support Automation and Monitoring Project](/projects/automation/Customer_Support_Automation_and_Monotiring_Project.xlsm)
 
+#### Tools: Microsoft Excel (VBA and Macros, Pivot Table, Pivot Chart, Power Query Editor, Data Source Integration - Shared Folder)
+
 #### Project Overview:
 This project was executed during a 6-month sales campaign for CloudFusion, a SaaS company providing cloud-based services to businesses. The company contracted five customer support agents to manage the increasing number of support tickets during the campaign. My role as a Data Analyst was to automate the consolidation and monitoring of this data and provide real-time performance insights.
 
