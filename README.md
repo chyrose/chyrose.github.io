@@ -20,7 +20,8 @@ Insights and recommendations are provided in the following key areas:
 ![Insights Dashboard](/projects/supplier_quality/Insights_Dashboard.png)
 
 #### [Read more...](/projects/supplier_quality/README.md)
-#### [Interact with dashboard on Power BI Service](https://bit.ly/SupplierQualityandPerformanceDashboard)
+#### [Interact with dashboard on Power BI service](https://bit.ly/SupplierQualityandPerformanceDashboard)
+#### [Download Report](/projects/supplier_quality/Power%20BI%20Supplier%20Insight%20Project.pbix)
 
 <br />
 
@@ -60,6 +61,7 @@ The analysis leverages a dataset from Unique Attire's database, including sales 
 ![Customer_Support_Automation](/projects/denim/Denim_Product_Line_Sales_Report_Dashboard.png)
 #### [Read more...](/projects/denim/README.md)
 #### [See SQL Queries](/projects/denim/SQL.md)
+#### [Download Report](/projects/denim/Denim_Product_Line_Sales_Report.xlsx)
 
 <br />
 
@@ -82,3 +84,4 @@ The primary goal was to streamline and automate the reporting process for CloudF
 ![Customer_Support_Automation](/projects/automation/Customer_Support_Automation.png)
 
 #### [Read More...](/projects/automation/README.md)
+#### [Download Report](/projects/automation/Customer_Support_Automation_and_Monotiring_Project.xlsm)

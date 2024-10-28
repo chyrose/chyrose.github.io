@@ -2,6 +2,9 @@
 
 #### Tools: Microsoft Excel (Pivot Table, Conditional Formatting, Pivot Chart, Power Query Editor)
 
+#### [Download Report](/projects/denim/Denim_Product_Line_Sales_Report.xlsx)
+#### [See SQL Queries](/projects/denim/SQL.md)
+
 ### Introduction
 
 Unique Attires is a small to medium-sized fashion enterprise well-known for its bespoke two-piece apparel. In January 2022, the company launched a new denim line, comprising 10 distinct types of pants and jackets. Unfortunately, the product line has fallen short of sales expectations, prompting the need for an in-depth analysis to guide strategic decisions.
@@ -9,10 +12,6 @@ Unique Attires is a small to medium-sized fashion enterprise well-known for its 
 ### Objective
 
 The primary objective of this project is to assess the sales performance of the denim line and deliver actionable insights and recommendations to the Sales and Marketing teams. The project demonstrates the power of data-driven analysis in solving real-world business problems and guiding strategic decision-making.
-
-#### [Download Report](/projects/denim/Denim_Product_Line_Sales_Report.xlsx)
-
-#### [See SQL Queries](/projects/denim/SQL.md)
 
 ### Dashboard Overview: 
 
