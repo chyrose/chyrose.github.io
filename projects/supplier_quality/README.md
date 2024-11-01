@@ -32,11 +32,6 @@ Before diving into the analysis, several checks were performed to ensure data qu
 - A **calendar table** was introduced to facilitate flexible and robust time intelligence analysis.
 - **Measure tables** were created to group related metrics and measures, allowing for easier navigation and report clarity.
 
-Automating the consolidation of monthly support ticket data.
-- Analysing key performance indicators (KPIs) such as the number of tickets handled, resolution status, resolution time, and issue types.
-- Designing a real-time dashboard to provide the management team with live insights into agent efficiency.
-- Automating the creation of monthly reports for the campaign team’s review.
-
 ### Data Visualisation
 
 Once the data model was established and measures created, insightful and intuitive visualisation was created. The dashboard comprised five pages - Landing Page, Overview Page, Vendor Performance Page, Plant Performance Page, Material Performance and Downtime Impact Page, each tailored to address specific aspects of supplier quality.
